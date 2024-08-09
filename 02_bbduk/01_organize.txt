@@ -1,0 +1,2 @@
+Humb1-1	/gxfs_work/geomar/smomw353/zj_rawData/Humb1-1_L.R1.fastq.gz	/gxfs_work/geomar/smomw353/zj_rawData/Humb1-1_L.R2.fastq.gz
+Kat30	/gxfs_work/geomar/smomw353/zj_rawData/Kat30_1.fq.gz	/gxfs_work/geomar/smomw353/zj_rawData/Kat30_2.fq.gz
